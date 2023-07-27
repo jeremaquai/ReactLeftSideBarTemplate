@@ -2,3 +2,7 @@
   text-align: center;
 }
 
+.SideBarAndPageBody {
+  display: flex;
+  flex-direction: row;
+}
