@@ -1,11 +1,12 @@
 import React from "react";
 
 import './SideBar.css';
+import Menu from "./Menu/Menu";
 
 export default function SideBar() {
     return (
         <div className="SideBar">
-            <h1>hello</h1>
+            <Menu />
         </div>
     );
 }

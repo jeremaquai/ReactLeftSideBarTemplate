@@ -6,5 +6,9 @@ export const MAINMENUDATA = [
     {
         name: 'About',
         path: '/About'
+    },
+    {
+        name: 'Contact',
+        path: '/Contact'
     }
 ]
