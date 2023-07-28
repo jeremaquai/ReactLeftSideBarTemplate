@@ -10,5 +10,9 @@ export const MAINMENUDATA = [
     {
         name: 'Contact',
         path: '/Contact'
+    },
+    {
+        name: 'blah',
+        path: '/blah'
     }
 ]
